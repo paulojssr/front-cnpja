@@ -1,7 +1,7 @@
 <template>
 	<div id="app">
 		
-
+<!--
 		<div class="container">
 			<div class="jumbotron text-center">
 			  <h1>CNPJ<span><strong style="color: #28a745;">Á</strong></span></h1>
@@ -21,15 +21,10 @@
 						<button id="btn_search" type="submit" class="btn btn-primary" style="width: 100%;">Buscar</button>
 					</div>
 				</form>
-			</div>
+			</div> 
 			
 				
 				<div class="row">
-					<!--<div class="">
-						<label>Data situação: </label>
-						{{ company.data_situacao }}	
-					</div>-->
-					
 						<table class="table">
 							<thead>
 							    <tr>
@@ -144,12 +139,13 @@
 				</div>
 		</div>
 		
-	</div>
+	</div>-->
 </template>
 
 <script>
 
   import Company from './services/company'
+  import "bootstrap/dist/css/bootstrap.css"
 
   export default{	
 
