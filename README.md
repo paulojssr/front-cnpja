@@ -1,5 +1,7 @@
 # app-front-cnpj
 
+[![Build Status](https://travis-ci.org/paulojssr/front-cnpja.svg?branch=master)](https://travis-ci.org/paulojssr/front-cnpja)
+
 ## Project setup
 ```
 npm install

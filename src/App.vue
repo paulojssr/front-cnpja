@@ -5,7 +5,7 @@
 		<div class="container">
 			<div class="jumbotron text-center">
 			  <h1>CNPJ<span><strong style="color: #28a745;">Á</strong></span></h1>
-			  <p>Resize this responsive page to see the effect!</p> 
+			  <p id="subtitle">Resize this responsive page to see the effect!</p> 
 			</div>
 
 			<div style="text-align: center;padding-left: 258px;padding-right: 200px;padding-top: 30px;padding-bottom: 30px;">
